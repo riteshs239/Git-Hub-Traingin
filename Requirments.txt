@@ -1,0 +1,8 @@
+This is byke racing game application
+Different types of byke
+Single rider
+3 different mode like Easy,Medium,Hard
+Environment like cloudy and ranning
+Different tracks
+Type oprion
+good byke colour
